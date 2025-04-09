@@ -6,6 +6,8 @@ When the page loads, you will be prompted with an equation to solve. Add your re
 
 If you wish to solve a new equation, either click the *New Equation* button, or refresh the page.
 
+There is also a Help button that appears when the student has answered incorrectly a few times. This will walk them though solving the problem. 
+
 ------------
 
 
